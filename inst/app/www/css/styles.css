@@ -1,0 +1,35 @@
+
+.selectize-input { font-size: 10px; height: 20px;}
+.selectize-dropdown { font-size: 10px; line-height: 10px; height: 20px; }
+
+.btn-dropdownbutton {
+  background-color: #ffffff !important;
+  border-color:#ffffff;
+  border-width:1px; border-radius:4px;
+  text-align: center; font-weight:bold; font-size:12px;
+  opacity: 0.5 !important;
+  }
+
+.btn-myClass {
+  background-color: #ffffff !important;
+  border-color:#eeeeee;
+  border-width:1px; border-radius:5px;
+  border-style:solid;
+  text-align: center; font-weight:bold; font-size:12px;
+  opacity: 0.5 !important;
+  padding:3px;
+}
+
+.pickerInput_options .btn {
+  background-color: #ffffff !important;
+  border-color:#eeeeee;
+  height:26px; min-height:26px;
+  font-size:80%;
+}
+
+.pickerInput_options_greekscharts_pikr .btn {
+  background-color: #ffffff !important;
+  border-color:#eeeeee;
+  height:26px; min-height:26px;
+  font-size:80%;
+}

@@ -1,0 +1,228 @@
+icons:
+  home: 'home'
+  refresh: 'refresh'
+  question: 'question'
+  gear: 'gear'
+  cogs: 'cogs'
+  bars: 'bars'
+  atsign: 'at'
+  headset: 'headset'
+  table: 'table'
+  question_circle: 'question-circle'
+  database: 'database'
+  bolt: 'bolt'
+  bell: 'bell'
+  twitter: 'twitter'
+  facebook: 'facebook'
+  google: 'google'
+  newspaper: 'newspaper'
+  industry: 'industry'
+  rss: 'rss'
+  infinity: 'infinity'
+  chess: 'chess'
+  robot: 'robot'
+  user: 'user'
+  user_tie: 'user-tie'
+  user_check: 'user-check'
+  exclamation: 'exclamation'
+  list_check: 'list-check'
+  check: 'check'
+  circle_info: 'circle-info'
+  list: 'list'
+  upload: 'upload'
+  chart_column: 'chart-column'
+  chart_line: 'chart-line'
+  searchengin: 'searchengin'
+  money_bill_trend_up: 'money-bill-trend-up'
+  chart_pie: 'chart-pie'
+  chart_area: 'chart-area'
+  yin_yang: 'yin-yang'
+  piggy_bank: 'piggy-bank'
+  puzzle_piece: 'puzzle-piece'
+  arrowtrendup: 'arrow-trend-up'
+  sack_dollar: 'sack-dollar'
+  bitcoin: 'bitcoin'
+  dollar: 'dollar-sign'
+  people_roof: 'people-roof'
+  people_group: 'people-group'
+  laptop_code: 'laptop-code'
+  sliders: 'sliders'
+  clock: 'clock'
+
+colors:
+  main_nvar:  '#4169E1'
+  title_text: '#0000FF'
+
+font_size:
+  general: 12
+  tab_titr: 13
+
+Pages:
+  Market_Scanner:
+    TradingView:
+      name: 'TradingView'
+      pathname: 'TradingView'
+      icon: 'fa-list'
+      items:
+        Forex:
+         name: 'Forex'
+         pathname: 'Forex'
+         icon: 'fa-list'
+        Stocks:
+          name: 'Stocks'
+          pathname: 'Stocks'
+          icon: 'fa-list'
+        EconomicCalendar:
+          name: 'Economic Calendar'
+          pathname: 'Economic Calendar'
+          icon: 'fa-list'
+        Crypto:
+          name: 'Crypto Currency'
+          pathname: 'Crypto Currency'
+          icon: 'fa-list'
+        Indices:
+          name: 'Indices'
+          pathname: 'Indices'
+          icon: 'fa-list'
+        Commodities:
+          name: 'Commodities'
+          pathname: 'Commodities'
+          icon: 'fa-list'
+    Stats:
+      name: 'Stats'
+      pathname: 'Stats'
+      icon: 'fa-list'
+  Market_Timing:
+    TimeSeries_Analysis:
+      name: 'Time Series Analysis'
+      pathname: 'Time Series Analysis'
+      icon: 'fa-list'
+    Technical_Analysis:
+      name: 'Technical Analysis'
+      pathname: 'Technical Analysis'
+      icon: 'fa-list'
+    Pattern_Recognition:
+      name: 'Pattern Recognition'
+      pathname: 'Pattern Recognition'
+      icon: 'fa-list'
+    Indicators:
+      name: 'Indicators'
+      pathname: 'Indicators'
+      icon: 'fa-list'
+    Sentimental:
+      name: 'Sentimental'
+      pathname: 'Sentimental'
+      icon: 'fa-list'
+  Financial_Metrics:
+    Ratios:
+      name: 'Ratios'
+      pathname: 'Ratios'
+      icon: 'fa-list'
+    Valuation:
+      name: 'Valuation'
+      pathname: 'Valuation'
+      icon: 'fa-list'
+    Factor_Analysis:
+      name: 'Factor Analysis'
+      pathname: 'Factor Analysis'
+      icon: 'fa-list'
+      # items:
+      #   Factor_Regression:
+      #     name: 'Factor Regression'
+      #     icon: 'fa-list'
+  Portfolio_Management:
+    RiskReturn:
+      name: 'Risk-Return Analysis'
+      pathname: 'Portfolio Management / Risk-Return Analysis'
+      icon: 'fa-list'
+    Optimization:
+      name: 'Optimization'
+      pathname: 'Portfolio Management / Optimization'
+      icon: 'fa-list'
+    Simulation:
+      name: 'Simulation'
+      pathname: 'Portfolio Management / Simulation'
+      icon: 'fa-list'
+    # Asset_Analytics:
+    #   name: 'Asset Analytics'
+    #   icon: 'fa-list'
+    #   items:
+    #     Asset_Correlations:
+    #       name: 'Correlations'
+    #       icon: 'fa-list'
+    #     Asset_Autocorrelation:
+    #       name: 'Autocorrelation'
+    #       icon: 'fa-list'
+    #     Asset_Cointegration:
+    #       name: 'Cointegration'
+    #       icon: 'fa-list'
+    # Tactical_Asset_Allocation:
+    #   tabname: 'TAA'
+    #   name: 'Tactical Asset Allocation (TAA)'
+    #   icon: 'fa-list'
+  Risk_Management:
+    Market_Risk:
+      name: 'Market Risk'
+      pathname: 'Risk Management / Market Risk'
+      icon: 'fa-list'
+    Credit_Risk:
+      name: 'Credit Risk'
+      pathname: 'Risk Management / Credit Risk'
+      icon: 'fa-list'
+    Liquidity_Risk:
+      name: 'Liquidity Risk'
+      pathname: 'Risk Management / Liquidity Risk'
+      icon: 'fa-list'
+  Trading_Strategy:
+    Pair_Trading:
+      name: 'Pair Trading'
+      pathname: 'Trading Strategy / Pair Trading'
+      icon: 'fa-list'
+    HFT:
+      name: 'HFT'
+      pathname: 'HFT'
+      icon: 'fa-list'
+  AI-Driven_Analysis:
+    ML:
+      name: 'Machine Learning'
+      pathname: 'Machine Learning'
+      icon: 'fa-list'
+    ChatGPT:
+      name: 'ChatGPT'
+      pathname: 'ChatGPT'
+      icon: 'fa-list'
+  Derivatives:
+    Screener:
+      name: 'Derivatives Market'
+      pathname: 'Derivatives Market'
+      icon: 'fa-list'
+    Options: # do not change this level names
+      name: 'Options Strategy Builder'
+      pathname: 'Options Portfolio / Strategy Builder'
+      icon: 'fa-list'
+    Futures:
+      name: 'Futures / Forwards'
+      pathname: 'Futures / Forwards'
+      icon: 'fa-list'
+    Binary_Options:
+      name: 'Binary Options'
+      pathname: 'Binary Options'
+      icon: 'fa-list'
+    Swaps:
+      name: 'Swaps'
+      pathname: 'Swaps'
+      icon: 'fa-list'
+  Alternative_Investment:
+    Real_Estate:
+      name: 'Real Estate'
+      pathname: 'Real Estate'
+      icon: 'fa-list'
+    Private_Equity:
+      name: 'Private Equity'
+      pathname: 'Private Equity'
+      icon: 'fa-list'
+
+
+
+
+

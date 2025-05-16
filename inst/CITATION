@@ -1,0 +1,11 @@
+bibentry(
+  bibtype  = "Article",
+  title    = "Welcome to the {QuanTradeR}: Quantitative Trading R Package and Shiny App",
+  author   = "Mohsen Asgari",
+  journal  = "...",
+  year     = 2024,
+  volume   = 1,
+  number   = 1,
+  pages    = 100,
+  doi      = "..."
+)
