@@ -2,8 +2,10 @@
 Public version of QuanTradeR Package &amp; Shiny App – a modular R-based quantitative trading system for research, backtesting, and real-time market analysis.
 
 ## Empowering Options Trading: A Comprehensive Analysis and Strategy Builder Tool (R Shiny App)
-
+More details on: 
+https://medium.com/@msn.asg/a-comprehensive-portfolio-optimization-dashboard-built-with-r-shiny-5eefc1ac51b2
 https://medium.com/@msn.asg/empowering-options-trading-a-comprehensive-analysis-and-strategy-builder-tool-r-shiny-app-9ff907b94af6
+
 
 ![Options_3](https://github.com/user-attachments/assets/9fc7fbcb-db1e-499a-9bdb-c5067473b414)
 
